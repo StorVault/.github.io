@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-url.com" alt="StorVault Logo" width="200" height="200">
+  <img src="https://github.com/StorVault/.github.io/blob/d8c57ec0139f6f644919363678cec2c71019763c/StorVault.png" alt="StorVault Logo" width="200" height="200">
 </p>
 
 # 🛡️ StorVault: Your Data Protection Partner 🗄️
